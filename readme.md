@@ -40,7 +40,5 @@ The results of the diamond price prediction are evaluated based on various metri
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
