@@ -3,4 +3,5 @@ numpy
 flask
 seaborn
 scikit-learn
+ipykernel
 #-e .
